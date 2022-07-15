@@ -1167,3 +1167,33 @@ Binding(CTRL+SHIFT+C,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-15 14:47:14.255
 !MESSAGE executing callback sts4.classpath.ReSuLPqc SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-15 16:24:15.158
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-15 16:24:15.167
+!MESSAGE classpath=109 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-15 16:24:15.175
+!MESSAGE buffering callback sts4.classpath.ReSuLPqc backend false 109
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-15 16:24:15.175
+!MESSAGE executing callback sts4.classpath.ReSuLPqc 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-15 16:24:15.255
+!MESSAGE executing callback sts4.classpath.ReSuLPqc SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-15 16:24:32.695
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-15 16:24:32.701
+!MESSAGE classpath=109 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-15 16:24:32.706
+!MESSAGE buffering callback sts4.classpath.ReSuLPqc backend false 109
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-15 16:24:32.706
+!MESSAGE executing callback sts4.classpath.ReSuLPqc 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-15 16:24:32.727
+!MESSAGE executing callback sts4.classpath.ReSuLPqc SUCCESS [done]
